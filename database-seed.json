@@ -1,0 +1,12 @@
+{ "projects": [{
+    "name": "Feed Eric",
+    "description": "He's a very hungry boy.",
+    "goal": 10,
+    "raised": 1
+  }, {
+    "name": "Learn Angular",
+    "description": "It's a JavaScript framework",
+    "goal": 5000,
+    "raised": 1600
+  }]
+}
